@@ -1,0 +1,42 @@
+@font-face {
+font-family: "Montserrat-bold";
+src: url("../fonts/Montserrat-Bold.woff") format('woff');
+font-size: normal;
+font-weight: normal;
+}
+
+@font-face {
+font-family: "Montserrat-light";
+src: url("../fonts/Montserrat-Light.woff") format('woff');
+font-size: normal;
+font-weight: normal;
+}
+
+@font-face {
+font-family: "Montserrat-semibold";
+src: url("../fonts/Montserrat-SemiBold.woff") format('woff');
+font-size: normal;
+font-weight: normal;
+}
+
+@font-face {
+font-family: "Merriweather-bold";
+src: url("../fonts/Merriweather-Bold.woff") format('woff');
+font-size: normal;
+font-weight: normal;
+}
+
+@font-face {
+font-family: "Raleway-light";
+src: url("../fonts/Raleway-Light.woff") format('woff');
+font-size: normal;
+font-weight: normal;
+}
+
+
+@font-face {
+font-family: "Raleway-regular";
+src: url("../fonts/Raleway-Regular.woff") format('woff');
+font-size: normal;
+font-weight: normal;
+}
